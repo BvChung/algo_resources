@@ -15,6 +15,7 @@ isPublish: true
 - <a href="https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O" target="_blank">Abdul Bari</a>
 - <a href="https://www.youtube.com/@MichaelSambol/playlists" target="_blank">Michael Sambol</a>
 - <a href="https://usaco.guide/CPH.pdf" target="_blank">UASCO Competitive Programming Handbook</a>
+- <a href="https://visualgo.net/en/dfsbfs?slide=1" target="_blank">Visual Algo</a>
 
 ---
 
